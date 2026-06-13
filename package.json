@@ -3,11 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
   "scripts": {
-    "homepage": "https://{Vlad567823}.github.io/{08.05}/",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",
+    "homepage": "https://{Vlad567823}.github.io/{live}/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
