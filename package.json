@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://{Vlad567823}.github.io/{live}/",
+    "homepage": "https://Vlad567823.github.io/live/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
